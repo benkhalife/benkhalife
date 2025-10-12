@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** with over **10 years of experience** in designing
 🌱 **Currently learning**: Deepening my expertise in Rust to build high-performance systems.  
 👯 **Open to collaboration**: On exciting web development projects or Telegram bot integrations.  
 📫 **Reach me**: benkhalife@proton.me  
-⚡ **Fun fact**: PHP is not dead.
+⚡ **Fun fact**: PHP is not dead. 😒
 
 ---
 
