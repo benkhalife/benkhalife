@@ -46,7 +46,7 @@ I'm a **Full-Stack Developer** with over **10 years of experience** in designing
   - Developed **Telegram bots** to automate workflows and enhance user engagement.  
   - Built web-based **Android applications** for seamless cross-platform experiences.  
   - Managed and optimized servers using **Ubuntu**, **Nginx**, **Apache**, and **Docker** for high availability and performance.
-
+<!--
 ---
 
 ## 🚀 Projects
@@ -62,13 +62,11 @@ I'm a **Full-Stack Developer** with over **10 years of experience** in designing
 - **[Project Name 3]**  
   A web-based Android app for [describe purpose, e.g., e-commerce or productivity]. Powered by [Tech Stack, e.g., Vue.js, Node.js].  
   *GitHub Link*: [Insert link or placeholder]
-
+-->
 ---
 
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects or discuss new opportunities. Feel free to reach out!  
-- 📧 Email: [Insert your email]  
-- 💼 LinkedIn: [Insert LinkedIn profile link]  
-- 🌐 Portfolio: [Insert portfolio website link, if applicable]  
-- 🐙 GitHub: [Insert GitHub profile link]
+- 📧 Email: [benkhalife@proton.me]
+- 🐙 GitHub: [https://github.com/benkhalife]
