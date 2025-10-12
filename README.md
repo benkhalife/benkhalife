@@ -5,8 +5,8 @@ I'm a **Full-Stack Developer** with over **10 years of experience** in designing
 🔭 **Currently working on**: Building innovative web applications and exploring new backend technologies.  
 🌱 **Currently learning**: Deepening my expertise in Rust to build high-performance systems.  
 👯 **Open to collaboration**: On exciting web development projects or Telegram bot integrations.  
-📫 **Reach me**: [Insert your email or preferred contact method]  
-⚡ **Fun fact**: I love solving complex problems with elegant code and a cup of coffee!
+📫 **Reach me**: benkhalife@proton.me  
+⚡ **Fun fact**: PHP is not dead.
 
 ---
 
