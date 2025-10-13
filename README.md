@@ -69,5 +69,5 @@ I'm a **Full-Stack Developer** with over **10 years of experience** in designing
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects or discuss new opportunities. Feel free to reach out!  
-- 📧 Email: [benkhalife@proton.me]
-- 🐙 GitHub: [https://github.com/benkhalife]
+- 📧 Email: benkhalife@proton.me
+- 🐙 GitHub: https://github.com/benkhalife
