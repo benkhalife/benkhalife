@@ -5,7 +5,7 @@ I'm a **Full-Stack Developer** with over **10 years of experience** in designing
 🔭 **Currently working on**: Scaling my open-source ecosystem and building high-performance web solutions.  
 🌱 **Currently learning**: Deepening my expertise in **Rust** to build next-generation system architectures.  
 👯 **Open to collaboration**: On innovative frameworks, Telegram bot ecosystems, or complex web systems.  
-📫 **Reach me**: benkhalife@proton.me  
+📫 **Reach me**: BenKhalifeDev@gmail.com  
 ⚡ **Fun fact**: PHP is not dead. 😒 (I even built a framework for it!)
 
 ---
