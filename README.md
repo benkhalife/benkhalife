@@ -58,5 +58,5 @@ A hybrid template engine for PHP that brings the reactive-style syntax to server
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on innovative projects or discuss new opportunities.  
-- 📧 Email: [benkhalife@proton.me](mailto:benkhalife@proton.me)
+- 📧 Email: [BenKhalifeDev@gmail.com](mailto:BenKhalifeDev@gmail.com)
 - 🐙 GitHub: [github.com/benkhalife](https://github.com/benkhalife)
