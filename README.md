@@ -1,73 +1,62 @@
 # 👋 Hello, I'm Benyamin Khalife!
 
-I'm a **Full-Stack Developer** with over **10 years of experience** in designing and building custom web applications, Telegram bots, and web-based Android applications. I specialize in creating tailored, high-performance solutions for unique business needs, leveraging a wide range of modern technologies and tools. Passionate about clean code, scalable architecture, and delivering user-focused products.
+I'm a **Full-Stack Developer** with over **10 years of experience** in designing and building custom web applications, Telegram bots, and high-performance systems. I am the creator of several open-source frameworks, focusing on extreme optimization and developer experience.
 
-🔭 **Currently working on**: Building innovative web applications and exploring new backend technologies.  
-🌱 **Currently learning**: Deepening my expertise in Rust to build high-performance systems.  
-👯 **Open to collaboration**: On exciting web development projects or Telegram bot integrations.  
+🔭 **Currently working on**: Scaling my open-source ecosystem and building high-performance web solutions.  
+🌱 **Currently learning**: Deepening my expertise in **Rust** to build next-generation system architectures.  
+👯 **Open to collaboration**: On innovative frameworks, Telegram bot ecosystems, or complex web systems.  
 📫 **Reach me**: benkhalife@proton.me  
-⚡ **Fun fact**: PHP is not dead. 😒
+⚡ **Fun fact**: PHP is not dead. 😒 (I even built a framework for it!)
+
+---
+
+## 🚀 Featured Open Source Projects (Created by Me)
+
+### ⚡ [Zog.js](https://github.com/zogjs/zogjs)
+A **3.5KB** ultra-lightweight reactive JavaScript framework. Inspired by Vue.js, it provides deep reactivity and directives with near-zero overhead. Optimized using AI to achieve maximum performance with minimum code.
+
+### 🐘 [Webrium Framework](https://github.com/webrium/webrium)
+A powerful, fast, and modular PHP framework designed for developers who need flexibility and speed without the bloat of traditional frameworks.
+
+### 🔌 [Zog PHP](https://github.com/zogjs/zog-php)
+A hybrid template engine for PHP that brings the reactive-style syntax to server-side rendering, bridging the gap between PHP and modern frontend patterns.
 
 ---
 
 ## 🛠️ Skills
 
-### Backend
+### Backend & Systems
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-FB542B.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
+### Frontend & UI
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
-### Server & DevOps
+### DevOps & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Learning
-![Rust](https://img.shields.io/badge/rust-FB542B.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-- **Full-Stack Developer** (2015–Present)  
-  - Designed and developed custom web applications with unique functionalities, tailored to client requirements.  
-  - Built scalable backend systems using **PHP**, **Node.js**, **Python**, and **MySQL**.  
-  - Created responsive and dynamic frontends using **Vue.js**, **JavaScript**, **HTML5**, **CSS3**, and **TailwindCSS**.  
-  - Developed **Telegram bots** to automate workflows and enhance user engagement.  
-  - Built web-based **Android applications** for seamless cross-platform experiences.  
-  - Managed and optimized servers using **Ubuntu**, **Nginx**, **Apache**, and **Docker** for high availability and performance.
-<!--
----
+- **Full-Stack Architect & Open Source Contributor** (2015–Present)  
+  - Created and maintained multiple web frameworks (**Webrium**, **Zog.js**) used for building high-efficiency applications.
+  - Developed complex **Telegram bot** ecosystems for workflow automation and business logic.
+  - Built web-based **Android applications** using modern bridge technologies.
+  - Specialized in **Server Optimization** and deployment using Docker, Nginx, and custom CI/CD workflows.
 
-## 🚀 Projects
-
-- **[Project Name 1]**  
-  A custom web application built with [Tech Stack, e.g., PHP, Vue.js, MySQL] to [briefly describe purpose, e.g., streamline business operations].  
-  *GitHub Link*: [Insert link or placeholder]
-
-- **[Project Name 2]**  
-  A Telegram bot designed to [describe functionality, e.g., automate customer support]. Built with [Tech Stack, e.g., Node.js].  
-  *GitHub Link*: [Insert link or placeholder]
-
-- **[Project Name 3]**  
-  A web-based Android app for [describe purpose, e.g., e-commerce or productivity]. Powered by [Tech Stack, e.g., Vue.js, Node.js].  
-  *GitHub Link*: [Insert link or placeholder]
--->
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on innovative projects or discuss new opportunities. Feel free to reach out!  
-- 📧 Email: benkhalife@proton.me
-- 🐙 GitHub: https://github.com/benkhalife
+I'm always excited to collaborate on innovative projects or discuss new opportunities.  
+- 📧 Email: [benkhalife@proton.me](mailto:benkhalife@proton.me)
+- 🐙 GitHub: [github.com/benkhalife](https://github.com/benkhalife)
