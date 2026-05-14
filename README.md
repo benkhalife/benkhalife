@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Developer** and **Software Engineer** with over **10 years of experience** in designing and building custom web applications, Telegram bots, and high-performance systems. I am an active open-source contributor and maintainer, focusing on extreme optimization and developer experience.
 
-🔭 **Currently working on**: Scaling my open-source ecosystem, including the **Webrium** framework and **Vaje-yar Nitro**, a hybrid Android application for language learning.  
+🔭 **Currently working on**: Scaling my open-source ecosystem, including the **Webrium** framework and **Nitro Vaje**, a hybrid Android application for language learning.  
 🌱 **Currently learning**: Deepening my expertise in **Rust** to build next-generation system architectures.  
 👯 **Open to collaboration**: On innovative frameworks, Telegram bot ecosystems, or complex web systems.  
 📫 **Reach me**: BenKhalifeDev@gmail.com  
