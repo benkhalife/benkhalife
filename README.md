@@ -6,8 +6,6 @@ I'm a **Full-Stack Developer** and **Software Engineer** with over **10 years of
 🌱 **Currently learning**: Deepening my expertise in **Rust** to build next-generation system architectures.  
 👯 **Open to collaboration**: On innovative frameworks, Telegram bot ecosystems, or complex web systems.  
 📫 **Reach me**: BenKhalifeDev@gmail.com  
-⚡ **PHP is not dead 😒**: (I even built the Webrium framework for it!)
-
 ---
 
 ## 🚀 Featured Open Source Projects (Created by Me)
