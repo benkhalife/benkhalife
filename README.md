@@ -5,7 +5,8 @@ I'm a **Full-Stack Developer** and **Software Engineer** with over **10 years of
 🔭 **Currently working on**: Scaling my open-source ecosystem, including the **Webrium** framework and **Nitro Vaje**, a hybrid Android application for language learning.  
 🌱 **Currently learning**: Deepening my expertise in **Rust** to build next-generation system architectures.  
 👯 **Open to collaboration**: On innovative frameworks, Telegram bot ecosystems, or complex web systems.  
-📫 **Reach me**: BenKhalifeDev@gmail.com  
+📫 **Reach me**: BenKhalifeDev@gmail.com
+
 ---
 
 ## 🚀 Featured Open Source Projects (Created by Me)
@@ -14,7 +15,7 @@ I'm a **Full-Stack Developer** and **Software Engineer** with over **10 years of
 A **4.5KB** ultra-lightweight reactive JavaScript framework. Inspired by Vue.js, it provides deep reactivity and directives with near-zero overhead. Optimized using AI to achieve maximum performance with minimum code.
 
 ### 🐘 [Webrium Framework](https://github.com/webrium/webrium)
-A powerful, fast, and modular PHP framework. Recently upgraded to support modern dependencies like PHP 8.4 and Symfony Console 6.4 LTS.
+A powerful, fast, and modular PHP framework.
 ---
 
 ## 🛠️ Skills
