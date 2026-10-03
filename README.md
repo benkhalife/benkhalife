@@ -11,8 +11,8 @@ I'm a **Full-Stack Developer** and **Software Engineer** with over **10 years of
 
 ## 🚀 Featured Open Source Projects (Created by Me)
 
-### ⚡ [Zog.js](https://github.com/zogjs/zogjs)
-A **4.5KB** ultra-lightweight reactive JavaScript framework. Inspired by Vue.js, it provides deep reactivity and directives with near-zero overhead. Optimized using AI to achieve maximum performance with minimum code.
+### ⚡ [Wrium](https://github.com/wrium/wrium)
+A **5KB GZIP** ultra-lightweight reactive JavaScript framework. Inspired by Vue.js, it provides deep reactivity and directives with near-zero overhead. Optimized using AI to achieve maximum performance with minimum code.
 
 ### 🐘 [Webrium Framework](https://github.com/webrium/webrium)
 A powerful, fast, and modular PHP framework.
